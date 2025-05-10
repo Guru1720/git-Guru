@@ -1,0 +1,1 @@
+print("Guru is Master of all")
