@@ -1,1 +1,1 @@
-print("Guru is Master of all")
+print("Guru is Master of All")
